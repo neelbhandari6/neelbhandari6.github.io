@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hello! I am a Masters student at [Carnegie Mellon University's Language Technologies Institute](https://www.lti.cs.cmu.edu/), where I'll be specialisaing in the areas of Natural Language Processing and Machine Learning.
+subtitle: Hello! I am a Masters student in the <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute</a> within the <a href="https://www.cs.cmu.edu/">School of Computer Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, where I'll be specialisaing in the areas of Natural Language Processing and Machine Learning.
 
 profile:
   align: right
