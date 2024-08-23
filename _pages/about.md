@@ -18,5 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am a Masters student at Carnegie Mellon University's Language Technologies Institute, where I'll be specialisaing in the areas of Natural Language Processing and Machine Learning. 
-
+Hello! I am a Masters student at Carnegie Mellon University's Language Technologies Institute, where I'll be specialisaing in the areas of Natural Language Processing and Machine Learning.
