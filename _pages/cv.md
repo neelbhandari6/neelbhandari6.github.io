@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: assets/pdf/Neel_Bhandari_CV_2024_.pdf
+permalink: assets/pdf/Neel_Bhandari_Resume_MIIS.pdf
 title: cv
 nav: true
 nav_order: 5
