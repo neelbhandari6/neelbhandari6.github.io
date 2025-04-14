@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: assets/pdf/Neel_Bhandari_CV_CMU.pdf
+permalink: assets/pdf/Neel_Bhandari_CV_2025.pdf
 title: cv
 nav: true
 nav_order: 5
