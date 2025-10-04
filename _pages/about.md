@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hello! I am a Masters student in the <a href="https://www.lti.cs.cmu.edu/">Language Technologies Institute</a> within the <a href="https://www.cs.cmu.edu/">School of Computer Science</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>. I am currently working with <a href="[https://www.lti.cs.cmu.edu/](https://maartensap.com/)">Prof. Maarten Sap</a> on research that examines the robustness of RAG systems when faced with real-world linguistic variations, as well as investigating how LLM agents demonstrate different forms of social intelligence in non-cooperative scenarios.
+subtitle: Hello! I am a Master’s student in the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) within the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am currently working with [Prof. Maarten Sap](https://maartensap.com/) on research that focuses on developing neurosymbolic methods to enhance model safety and mitigate reward hacking**, as well as investigating how LLM agents demonstrate different forms of social intelligence in non-cooperative scenarios.
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 <!-- Hello! I am a Masters student at Carnegie Mellon University's Language Technologies Institute, where I'll be specialisaing in the areas of Natural Language Processing and Machine Learning. \ -->
 
-I am currently interning at Adobe as an ML Intern, where I'm developing agentic frameworks for creative content generation and performance marketing within Adobe GenStudio.
+I am spent the past summer interning at Adobe as an ML Intern, where I developed agentic frameworks for creative content generation and performance marketing within Adobe GenStudio.
 
 Prior to joining CMU, I spent two fantastic years at PayPal as a Machine Learning Scientist. There, I developed PayPal's first automated root cause identification tool, which extracts root causes and problem statements from millions of customer chat transcripts. I was also part of the team that worked on the first LLM-based PayPal Assistant chatbot.
 
