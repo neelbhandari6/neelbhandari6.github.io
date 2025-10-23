@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hello! I am a Master’s student in the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) within the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am currently working with [Prof. Maarten Sap](https://maartensap.com/) on research that focuses on developing neurosymbolic methods to enhance model safety and mitigate reward hacking**, as well as investigating how LLM agents demonstrate different forms of social intelligence in non-cooperative scenarios.
+subtitle: Hello! I am a Masters student in the <a href=“https://www.lti.cs.cmu.edu/”>Language Technologies Institute</a> within the <a href=“https://www.cs.cmu.edu/”>School of Computer Science</a> at <a href=“https://www.cmu.edu/”>Carnegie Mellon University</a>. I am currently working with <a href=“[https://www.lti.cs.cmu.edu/](https://maartensap.com/)”>Prof. Maarten Sap</a> on research that focuses on developing neurosymbolic methods to enhance model safety and mitigate reward hacking**, as well as investigating how LLM agents demonstrate different forms of social intelligence in non-cooperative scenarios.
 
 profile:
   align: right
